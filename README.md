@@ -2,6 +2,8 @@
 A **privacy-first, on-device AI-powered voice notes app for iOS** built with **SwiftUI**, **SwiftData**, **Whisper**, **Core ML**, and **Apple Intelligence (FoundationModels)**.  
 Capture your **spoken thoughts in real time**, turn them into clean structured notes, and manage a polished library of transcripts and refined note versions without sending private data to the cloud.
 
+> 🎓 **Research project (2026).** This app is the practical part of my master's research on developing an iOS app for real-time on-device speech recognition with Core ML.
+
 ---
 
 ### 📌 Short Description
